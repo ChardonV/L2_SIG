@@ -4,7 +4,7 @@ L'ensemble des supports de cours présentés lors des séances ainsi que les don
 
 Aidez-vous du guide Qgis pour mener à bien les TDs : https://docs.qgis.org/3.40/fr/docs/user_manual/
 
-ACCÈS AUX DONNÉES : https://seafile.unistra.fr/d/ccf8a45d9f354f87a994/
+ACCÈS AUX DONNÉES : https://seafile.unistra.fr/d/bf2f871cda75404fa9ee/
 
 
 🎯 OBJECTIFS DES SÉANCES
